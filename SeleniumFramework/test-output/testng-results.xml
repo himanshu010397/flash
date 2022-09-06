@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-07T03:27:08 IST" name="Default suite" finished-at="2022-09-07T03:27:20 IST" duration-ms="11947">
+    <groups>
+    </groups>
+    <test started-at="2022-09-07T03:27:08 IST" name="Default test" finished-at="2022-09-07T03:27:20 IST" duration-ms="11947">
+      <class name="TestData">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:TestData@3d6f0054]" started-at="2022-09-07T03:27:08 IST" name="setUpMethod" finished-at="2022-09-07T03:27:10 IST" duration-ms="2053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="searchText(java.lang.String)[pri:0, instance:TestData@3d6f0054]" started-at="2022-09-07T03:27:10 IST" name="searchText" data-provider="input" finished-at="2022-09-07T03:27:15 IST" duration-ms="4866" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JPR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchText -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:TestData@3d6f0054]" started-at="2022-09-07T03:27:15 IST" name="tearDownMethod" finished-at="2022-09-07T03:27:15 IST" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:TestData@3d6f0054]" started-at="2022-09-07T03:27:15 IST" name="setUpMethod" finished-at="2022-09-07T03:27:17 IST" duration-ms="1266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="searchText(java.lang.String)[pri:0, instance:TestData@3d6f0054]" started-at="2022-09-07T03:27:17 IST" name="searchText" data-provider="input" finished-at="2022-09-07T03:27:19 IST" duration-ms="2487" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JPA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchText -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:TestData@3d6f0054]" started-at="2022-09-07T03:27:19 IST" name="tearDownMethod" finished-at="2022-09-07T03:27:20 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestData@3d6f0054]" started-at="2022-09-07T03:27:20 IST" name="tearDownClass" finished-at="2022-09-07T03:27:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- TestData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
